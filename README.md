@@ -1,2 +1,2 @@
-# to-do-list
-ela uma é uma ferramenta de lista de tarefas 
+meu nome é Fernanda tenho 17 anos e na minha escola faço o desenvolvimento de sistema com o professor Heitor
+HTML, CSS E JS 
